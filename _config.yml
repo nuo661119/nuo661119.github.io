@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "nuo661119 / Homepage"
 title_separator          : "-"
-name                     : "nuo661119"
+name                     : "刘一诺"
 description              : "Nuo's Personal Learning Space!"
 url                      : https://nuo661119.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "nuo661119"
-  avatar           : "/images/avatar.jpg"
+  avatar           : "avatar.jpg"
   bio              : "Undergraduate student"
   location         : "Location"
   employer         :
